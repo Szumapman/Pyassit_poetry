@@ -1,0 +1,2 @@
+class InvalidCSVFileStructure(Exception):
+    pass

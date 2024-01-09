@@ -1,0 +1,2 @@
+class ExitInterrupt(BaseException):
+    pass
